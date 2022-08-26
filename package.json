@@ -1,0 +1,46 @@
+{
+  "name": "parabot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+  "node": "14.16.1",
+  "npm": "6.14.12"
+},
+  "dependencies": {
+    "db": "^1.0.7",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.10.0",
+    "extra": "^0.2.1",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.0",
+    "gamer-namer": "^1.0.5",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "discord.js-minesweeper": "^1.0.3",
+    "node.js": "",
+    "npm": "^6.4.1",
+    "opusscript": "0.0.6",
+    "pm2": "^3.2.2",
+    "profanities": "^2.6.0",
+    "relevant-urban": "^2.0.0",
+    "superagent": "^4.0.0-beta.5",
+    "urban": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eParadox/eParadoxbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eParadox/eParadoxbot/issues"
+  },
+  "homepage": "https://github.com/eParadox/eParadoxbot#readme",
+  "description": ""
+}
